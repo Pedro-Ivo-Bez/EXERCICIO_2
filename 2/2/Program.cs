@@ -8,8 +8,9 @@ namespace _2
         {
             int a = 400;
             int b = 200;
+            int d = -1;
 
-            Console.WriteLine(a + b);
+            Console.WriteLine(a + d + b);
         }
     }
 }
